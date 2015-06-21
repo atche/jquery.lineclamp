@@ -2,11 +2,11 @@
   * jQuery Line Clamp - Multiline text with ellipsis
   *
   * @modified: 2015/06/19
-  * @version:   1.0.0
-  * @requires:  jQuery 1.7.x or later
-  * @author:    Atsushi Yoshii
-  * @link:         https://github.com/atche/jquery.lineclamp
-  * @license:    The MIT License
+  * @version:  1.0.0
+  * @requires: jQuery 1.7.x or later
+  * @author:   Atsushi Yoshii
+  * @link:     https://github.com/atche/jquery.lineclamp
+  * @license:  The MIT License
 */
 
 ;(function($){
