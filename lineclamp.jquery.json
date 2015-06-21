@@ -1,0 +1,28 @@
+{
+	"name": "lineclamp",
+	"title": "jQuery Line Clamp", 
+	"description": "This is multiline text with ellipsis plugin.",
+	"version": "1.0.0",
+	"keywords": [
+		"multiline",
+		"ellipsis",
+		"text",
+		"line-clamp"
+	],
+	"author": {
+		"name": "Atsushi Yoshii",
+		"url": "https://github.com/atche"
+	},
+	"licenses": [
+		{
+			"type":"MIT",
+			"url": "http://opensource.org/licenses/MIT"
+		}
+	],
+	"dependencies": {
+		"jquery": ">=1.7"
+	},
+	"docs": "https://github.com/atche/jquery.lineclamp",
+	"download": "https://github.com/atche/jquery.lineclamp/archive/master.zip",
+	"homepage": "https://github.com/atche/jquery.lineclamp"
+}
