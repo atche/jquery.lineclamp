@@ -16,7 +16,7 @@ $(selector).lineClamp(num);
 
 ### Options
 
-* Box Model
+* Overwrite Display Property
 
 ```javascript
 $(selector).lineClamp(num, {display: 'block'});
@@ -38,8 +38,7 @@ $(selector).lineClamp(num, {responsive: true});
 
 ```html
 <element>
-  <inline class="jq-lineClamp-trim">trimTEXT.</inline><br>
-  keepTEXT.
+  keepTEXT. <inline class="jq-lineClamp-trim">trimTEXT.</inline> keepTEXT.
 </element>
 ```
 
